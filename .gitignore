@@ -1,0 +1,36 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.code-workspace
+.vscode/
+
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Ignore other directories
+Admin_Dashboard/bin/
+Admin_Dashboard/obj/
+Talabat.APIs/bin/
+Talabat.APIs/obj/
+Talabat.Core/bin/
+Talabat.Core/obj/
+Talabat.Repositories/bin/
+Talabat.Repositories/obj/
+Talabat.Services/bin/
+Talabat.Services/obj/
+
+# Ignore other files
+*.log
