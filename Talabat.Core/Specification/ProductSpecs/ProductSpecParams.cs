@@ -9,7 +9,7 @@ namespace Talabat.Core.Specification.ProductSpecs
     public class ProductSpecParams
     {
         public int pageIndex=1;
-        private const int MaxPageSize=5;
+        private const int MaxPageSize=12;
 
         private int pageSize=MaxPageSize;
         public int PageSize {
